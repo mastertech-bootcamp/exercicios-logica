@@ -19,3 +19,10 @@
 - If... Else
 
 - Interpolação de strings
+
+- Biblioteca Math
+
+## Observações
+
+Para a resolução desses exercícios, não é necessário o uso de laços ou
+a criação de funções.
